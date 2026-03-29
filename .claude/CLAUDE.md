@@ -20,8 +20,6 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 | Type | When to use |
 |---|---|
 | `feat` | New feature or new file |
-| `fix` | Bug fix or correction |
-| `docs` | Documentation added or updated |
 | `chore` | Config files, miscellaneous tasks |
 | `refactor` | Refactoring |
 
