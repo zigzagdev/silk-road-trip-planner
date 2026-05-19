@@ -4,7 +4,7 @@ A 9-day journey through Central Asia — tracing the ancient Silk Road across Uz
 
 ## Trip Overview
 
-- **Period**: September (Silver Week)
+- **Period**: September 16–24 (Silver Week)
 - **Duration**: 9 days (including travel days)
 - **Travelers**: 2
 - **Theme**: UNESCO World Heritage Sites, nomadic culture, natural landscapes
