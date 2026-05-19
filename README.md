@@ -1,11 +1,11 @@
 # Silk Road Trip Planner 🐪
 
-A 9-day journey through Central Asia — tracing the ancient Silk Road across Uzbekistan, Kazakhstan, and Kyrgyzstan.
+A 13-day journey through Central Asia — tracing the ancient Silk Road across Uzbekistan, Kazakhstan, and Kyrgyzstan.
 
 ## Trip Overview
 
-- **Period**: September 16–24 (Silver Week)
-- **Duration**: 9 days (including travel days)
+- **Period**: September 16–28
+- **Duration**: 13 days (including travel days)
 - **Travelers**: 2
 - **Theme**: UNESCO World Heritage Sites, nomadic culture, natural landscapes
 - **Route**: Uzbekistan → Kazakhstan → Kyrgyzstan → Uzbekistan
@@ -20,17 +20,21 @@ A 9-day journey through Central Asia — tracing the ancient Silk Road across Uz
 
 ## Itinerary
 
-| Day | Theme | Country | File |
-|---|---|---|---|
-| 1 | Arrival & Tashkent | 🇺🇿 | `day1-tashkent.md` |
-| 2 | Samarkand — Registan & Shah-i-Zinda | 🇺🇿 | `day2-samarkand.md` |
-| 3 | Samarkand → Bukhara | 🇺🇿 | `day3-bukhara.md` |
-| 4 | Bukhara — Ark Fortress & Kalon Minaret | 🇺🇿 | `day4-bukhara.md` |
-| 5 | Bukhara → Khiva | 🇺🇿 | `day5-khiva.md` |
-| 6 | Khiva → Astana | 🇰🇿 | `day6-astana.md` |
-| 7 | Astana → Kyrgyzstan | 🇰🇬 | `day7-kyrgyzstan.md` |
-| 8 | Nature & Mountains | 🇰🇬 | `day8-kyrgyzstan.md` |
-| 9 | Return to Uzbekistan / Departure | 🇺🇿 | `day9-departure.md` |
+| Day | Date | Theme | Country | File |
+|---|---|---|---|---|
+| 1 | 9/16 | Arrival & Tashkent | 🇺🇿 | `day1-tashkent.md` |
+| 2 | 9/17 | Samarkand — Registan & Shah-i-Zinda | 🇺🇿 | `day2-samarkand.md` |
+| 3 | 9/18 | Samarkand → Bukhara | 🇺🇿 | `day3-bukhara.md` |
+| 4 | 9/19 | Bukhara — Ark Fortress & Kalon Minaret | 🇺🇿 | `day4-bukhara.md` |
+| 5 | 9/20 | Bukhara → Khiva | 🇺🇿 | `day5-khiva.md` |
+| 6 | 9/21 | Khiva → Astana | 🇰🇿 | `day6-astana.md` |
+| 7 | 9/22 | Astana → Kyrgyzstan | 🇰🇬 | `day7-kyrgyzstan.md` |
+| 8 | 9/23 | Nature & Mountains | 🇰🇬 | `day8-kyrgyzstan.md` |
+| 9 | 9/24 | TBD | 🇰🇬 | `day9-tbd.md` |
+| 10 | 9/25 | TBD | TBD | `day10-tbd.md` |
+| 11 | 9/26 | TBD | TBD | `day11-tbd.md` |
+| 12 | 9/27 | TBD | TBD | `day12-tbd.md` |
+| 13 | 9/28 | Departure | — | `day13-departure.md` |
 
 ## Other Files
 
