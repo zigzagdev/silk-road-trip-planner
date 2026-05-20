@@ -15,7 +15,7 @@ A 14-day journey through Central Asia — tracing the ancient Silk Road across U
 | Country | City | Highlights |
 |---|---|---|
 | 🇺🇿 Uzbekistan | Tashkent / Samarkand / Bukhara / Khiva | UNESCO World Heritage Sites (the heaviest part of the trip) |
-| 🇰🇿 Kazakhstan | Astana | Modern capital city |
+| 🇰🇿 Kazakhstan | Almaty | Former capital, mountains & city |
 | 🇰🇬 Kyrgyzstan | TBD | Nature, mountains, nomadic life |
 
 ## Itinerary
@@ -27,8 +27,8 @@ A 14-day journey through Central Asia — tracing the ancient Silk Road across U
 | 3 | 9/18 | Samarkand → Bukhara | 🇺🇿 | `day3-bukhara.md` |
 | 4 | 9/19 | Bukhara — Ark Fortress & Kalon Minaret | 🇺🇿 | `day4-bukhara.md` |
 | 5 | 9/20 | Bukhara → Khiva | 🇺🇿 | `day5-khiva.md` |
-| 6 | 9/21 | Khiva → Astana | 🇰🇿 | `day6-astana.md` |
-| 7 | 9/22 | Astana → Kyrgyzstan | 🇰🇬 | `day7-kyrgyzstan.md` |
+| 6 | 9/21 | Khiva → Almaty | 🇰🇿 | `day6-almaty.md` |
+| 7 | 9/22 | Almaty → Kyrgyzstan | 🇰🇬 | `day7-kyrgyzstan.md` |
 | 8 | 9/23 | Nature & Mountains | 🇰🇬 | `day8-kyrgyzstan.md` |
 | 9 | 9/24 | TBD | 🇰🇬 | `day9-tbd.md` |
 | 10 | 9/25 | TBD | TBD | `day10-tbd.md` |
@@ -50,6 +50,6 @@ A 14-day journey through Central Asia — tracing the ancient Silk Road across U
 ## Notes
 
 - Uzbekistan is the highlight — allocate the most time here
-- Kazakhstan is a transit stop (Astana only)
+- Kazakhstan is a transit stop (Almaty only)
 - Kyrgyzstan is for nature and decompression
 - Visa requirements vary by country — check in advance
