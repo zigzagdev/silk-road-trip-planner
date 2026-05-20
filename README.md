@@ -1,11 +1,11 @@
 # Silk Road Trip Planner 🐪
 
-A 13-day journey through Central Asia — tracing the ancient Silk Road across Uzbekistan, Kazakhstan, and Kyrgyzstan.
+A 14-day journey through Central Asia — tracing the ancient Silk Road across Uzbekistan, Kazakhstan, and Kyrgyzstan.
 
 ## Trip Overview
 
-- **Period**: September 16–28
-- **Duration**: 13 days (including travel days)
+- **Period**: September 16–29
+- **Duration**: 14 days (including travel days)
 - **Travelers**: 2
 - **Theme**: UNESCO World Heritage Sites, nomadic culture, natural landscapes
 - **Route**: Uzbekistan → Kazakhstan → Kyrgyzstan → Uzbekistan
@@ -34,7 +34,8 @@ A 13-day journey through Central Asia — tracing the ancient Silk Road across U
 | 10 | 9/25 | TBD | TBD | `day10-tbd.md` |
 | 11 | 9/26 | TBD | TBD | `day11-tbd.md` |
 | 12 | 9/27 | TBD | TBD | `day12-tbd.md` |
-| 13 | 9/28 | Departure | — | `day13-departure.md` |
+| 13 | 9/28 | Departure flight | — | `day13-departure.md` |
+| 14 | 9/29 | Return to Japan (arrival 20:00) | 🇯🇵 | `day14-return.md` |
 
 ## Other Files
 
